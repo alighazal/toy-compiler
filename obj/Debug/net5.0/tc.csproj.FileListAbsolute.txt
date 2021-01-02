@@ -1,0 +1,16 @@
+/home/ali/Documents/mini-projects/toy-compiler/tc/bin/Debug/net5.0/tc
+/home/ali/Documents/mini-projects/toy-compiler/tc/bin/Debug/net5.0/tc.deps.json
+/home/ali/Documents/mini-projects/toy-compiler/tc/bin/Debug/net5.0/tc.runtimeconfig.json
+/home/ali/Documents/mini-projects/toy-compiler/tc/bin/Debug/net5.0/tc.runtimeconfig.dev.json
+/home/ali/Documents/mini-projects/toy-compiler/tc/bin/Debug/net5.0/tc.dll
+/home/ali/Documents/mini-projects/toy-compiler/tc/bin/Debug/net5.0/ref/tc.dll
+/home/ali/Documents/mini-projects/toy-compiler/tc/bin/Debug/net5.0/tc.pdb
+/home/ali/Documents/mini-projects/toy-compiler/tc/obj/Debug/net5.0/tc.csprojAssemblyReference.cache
+/home/ali/Documents/mini-projects/toy-compiler/tc/obj/Debug/net5.0/tc.GeneratedMSBuildEditorConfig.editorconfig
+/home/ali/Documents/mini-projects/toy-compiler/tc/obj/Debug/net5.0/tc.AssemblyInfoInputs.cache
+/home/ali/Documents/mini-projects/toy-compiler/tc/obj/Debug/net5.0/tc.AssemblyInfo.cs
+/home/ali/Documents/mini-projects/toy-compiler/tc/obj/Debug/net5.0/tc.csproj.CoreCompileInputs.cache
+/home/ali/Documents/mini-projects/toy-compiler/tc/obj/Debug/net5.0/tc.dll
+/home/ali/Documents/mini-projects/toy-compiler/tc/obj/Debug/net5.0/ref/tc.dll
+/home/ali/Documents/mini-projects/toy-compiler/tc/obj/Debug/net5.0/tc.pdb
+/home/ali/Documents/mini-projects/toy-compiler/tc/obj/Debug/net5.0/tc.genruntimeconfig.cache
